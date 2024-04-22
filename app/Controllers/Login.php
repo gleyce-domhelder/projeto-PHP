@@ -9,6 +9,7 @@ class Login extends Controller
 {
     public function index()
     {
+        header("Access-Control-Allow-Origin: *");
         $json_files = ['Usuarios.json', 'Routes.json', 'SubMenu.json', 'Menu.json'];
         $json_dados = [];
         foreach ($json_files as $json_file) {
