@@ -1,0 +1,26 @@
+[
+    {
+        "idUsuário": 1,
+        "Nome": "Maria",
+        "email": "maria@sescmg.com.br",
+        "senha": "12345678",
+        "idUnidade": 2,
+        "idCategoria": 1
+    },
+    {
+        "idUsuário": 2,
+        "Nome": "Joao",
+        "email": "joao@sescmg.com.br",
+        "senha": "12345678",
+        "idUnidade": 2,
+        "idCategoria": 1
+    },
+    {
+        "idUsuário": 3,
+        "Nome": "Miu",
+        "email": "miu@gmail.com",
+        "senha": "12345678",
+        "idUnidade": 2,
+        "idCategoria": 1
+    }
+]

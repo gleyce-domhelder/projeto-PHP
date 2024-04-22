@@ -1,0 +1,21 @@
+
+[
+    {
+        "idSubMenu": 1,
+        "idMenu": 3,
+        "Nome": "SubMenu1",
+        "idRoutes": "3.1"
+    },
+    {
+        "idSubMenu": 2,
+        "idMenu": 3,
+        "Nome": "SubMenu2",
+        "idRoutes": "3.2"
+    },
+    {
+        "idSubMenu": 3,
+        "idMenu": 3,
+        "Nome": "SubMenu3",
+        "idRoutes": "3.3"
+    }
+]
